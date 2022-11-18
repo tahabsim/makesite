@@ -175,9 +175,9 @@ def main():
     # Default parameters.
     params = {
         'base_path': '',
-        'subtitle': 'Lorem Ipsum',
-        'author': 'Admin',
-        'site_url': 'http://localhost:8000',
+        'subtitle': 'Jordan Tahabsim',
+        'author': 'Jordan Tahabsim',
+        'site_url': 'https://tahabsim.org',
         'current_year': datetime.datetime.now().year
     }
 
